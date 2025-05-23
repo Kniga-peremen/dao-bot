@@ -1,3 +1,4 @@
+requests>=2.26.0
 Pillow==9.5.0
 python-telegram-bot==20.3  
 openai==1.12.0  
