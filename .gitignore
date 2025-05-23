@@ -1,3 +1,7 @@
+ # Игнорирует файл .env в корне
+.env
+# Игнорирует все .env файлы в любых подпапках
+**/.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
