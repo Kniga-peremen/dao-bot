@@ -1,0 +1,37 @@
+{"timestamp": "2025-05-22T19:26:40.232104", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:26:40.473715", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:26:40.682578", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:26:45.244249", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-22T19:26:48.596686", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:26:59.821792", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 51, Название: Гром, Изменяющиеся линии: [2]"}
+{"timestamp": "2025-05-22T19:27:02.346607", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 47, Название: Истощение, Изменяющиеся линии: [4]"}
+{"timestamp": "2025-05-22T19:27:06.085631", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:39:54.637066", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-22T19:39:56.976370", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:40:41.392992", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-22T19:40:43.572975", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:46:47.613034", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-22T19:46:47.940590", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-22T19:46:48.199514", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-22T19:46:48.419700", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-22T19:46:48.626297", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-23T03:51:34.673603", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-23T03:51:37.868552", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 16, Название: Вольность, Изменяющиеся линии: [1]"}
+{"timestamp": "2025-05-23T03:51:42.056921", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-23T04:01:14.985821", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-23T04:01:17.396095", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 54, Название: Невеста, Изменяющиеся линии: [4, 5]"}
+{"timestamp": "2025-05-23T04:01:20.122251", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Просмотр информации", "details": ""}
+{"timestamp": "2025-05-23T04:01:25.568119", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-23T04:25:03.072940", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-23T04:25:05.657315", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 10, Название: Наступление, Изменяющиеся линии: [1]"}
+{"timestamp": "2025-05-23T04:25:07.521547", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-23T04:54:49.453945", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-23T04:54:52.808183", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 46, Название: Подъём, Изменяющиеся линии: [6]"}
+{"timestamp": "2025-05-23T04:54:54.437503", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-23T11:35:15.577647", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-23T11:35:15.818446", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-23T11:35:23.293552", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 7, Название: Войско, Изменяющиеся линии: []"}
+{"timestamp": "2025-05-23T11:35:25.548107", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
+{"timestamp": "2025-05-23T12:18:54.495358", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Начало сессии", "details": ""}
+{"timestamp": "2025-05-23T12:18:57.348342", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Генерация гексаграммы", "details": "Номер: 20, Название: Созерцание, Изменяющиеся линии: [2, 5]"}
+{"timestamp": "2025-05-23T12:18:58.764036", "user_id": 774452314, "username": "Andrew_Khramov", "full_name": "Андрей Храмов", "action": "Завершение сессии", "details": ""}
